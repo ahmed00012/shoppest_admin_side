@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "569987899893",
+    "firebase_url": "https://e-commerce-4de3c.firebaseio.com",
+    "project_id": "e-commerce-4de3c",
+    "storage_bucket": "e-commerce-4de3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569987899893:android:598ad07b19e5612f58c0bc",
+        "android_client_info": {
+          "package_name": "com.example.shoppest_admin_side"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569987899893-jelisbghf2fbt4pkht807qid6045k3u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHFC98wmE60oz02FqOpCsCmCYN0HR9i0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569987899893-jelisbghf2fbt4pkht807qid6045k3u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569987899893:android:8f0a86660328b7e558c0bc",
+        "android_client_info": {
+          "package_name": "com.example.shoppesta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569987899893-as2j68mml7re61tp433e8lh0ni2kpsbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppesta",
+            "certificate_hash": "f889ae1a355609c7dcaa1bbeb2baa619a58476d3"
+          }
+        },
+        {
+          "client_id": "569987899893-jelisbghf2fbt4pkht807qid6045k3u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHFC98wmE60oz02FqOpCsCmCYN0HR9i0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569987899893-jelisbghf2fbt4pkht807qid6045k3u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
